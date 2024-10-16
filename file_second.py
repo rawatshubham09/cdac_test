@@ -1,0 +1,8 @@
+print("-"*20)
+print("Inside file - 'Second'")
+print()
+print("This is new assignment task2")
+print("This is the end of file!")
+print()
+print("Task 2 completed")
+print("-"*20)
