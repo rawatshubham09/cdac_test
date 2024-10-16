@@ -1,0 +1,8 @@
+print("-"*20)
+print()
+print("Inside task - 'Forth'")
+print("Task in process")
+print("Task Completed")
+print()
+print("Forth task Completed!")
+print("-"*20)
